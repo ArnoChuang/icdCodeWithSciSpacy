@@ -1,4 +1,4 @@
-# 透過scispaCy和ICD code轉換成嵌入向量</br>
+# 透過scispaCy將ICD code轉換成嵌入向量可用在表示疾病</br>
 
 步驟：</br>
 1. 以疾病代碼查詢其在MIMIC資料庫中對應的病徵</br>
