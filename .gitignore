@@ -1,0 +1,7 @@
+*.tmp
+*.txt
+*.csv
+icd9
+icd10
+icd10_result
+MIMIC_OVER100
