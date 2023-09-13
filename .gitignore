@@ -1,6 +1,11 @@
+#file
 *.tmp
 *.txt
 *.csv
+*.DS_Store
+*.toml
+
+#folder
 icd9
 icd10
 icd10_result
