@@ -4,6 +4,7 @@
 *.csv
 *.DS_Store
 *.toml
+*.xlsl
 
 #folder
 icd9
